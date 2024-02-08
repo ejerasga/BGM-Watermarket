@@ -1,0 +1,29 @@
+Good day, Ma'am Maribel Cardona.
+
+Thank you for using our application. Before you start, please read the following instructions to ensure the smooth functioning of the system.
+
+1. Running the Application:
+To run the system, navigate to the folder where the application is saved and double-click on the "main.exe" file.
+
+2. Login:
+Once the application is launched, you will be prompted to login. Please use "admin" as both the username and password to access the dashboard.
+
+3. Dashboard:
+Upon logging in, you will be directed to the dashboard. Here you will see two buttons, "Add" and "Update".
+
+4. Adding Customer Information:
+To add customer information, click on the "Add" button. This will take you to a new window where you can enter the customer's details such as name, address, email, and selected menu. Once you have entered all the required details, click on the "Save" button to add the customer's information to the system.
+
+5. Updating Customer Information:
+To update customer information, click on the "Update" button on the dashboard. This will take you to a new window where you can edit or delete the customer's details. You can also search for a customer by their first name using the search bar. Click on the "Save" button to save any changes you have made.
+
+6. Inventory:
+In the "Update" window, you can also navigate to the "Inventory" window to view and manage the inventory.
+
+7. Exporting Files:
+You can export the customer information to a CSV file by clicking on the "Export" button in the "Update" window. This will generate a CSV file containing all the customer information saved in the system.
+
+8. Sending Emails:
+You can also send emails to customers by clicking on the "Send Email" button in the "Update" window. This will open your default email client and generate a new email with the customer's email address pre-filled.
+
+Thank you for using our application. If you have any questions or concerns, please do not hesitate to contact our group.
